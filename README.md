@@ -1,7 +1,5 @@
 ### Hello, I am Yesrat Rahman. 👋
 #### [Click here](https://yesratrahman.github.io/Yesrat_Rahman_Personal_Site/) to view my Full Portfolio. 
-<a target="_blank" class="links" href="http://nile-tp.s3-website-us-east-1.amazonaws.com/">Click here </a>
-
 
 <!--
 **YesratRahman/YesratRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
